@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656301136,
-        "narHash": "sha256-kBCF7urLZ/EjoS9ypd4m70wFQauPQRI/5eH+/X4p6RM=",
+        "lastModified": 1656746989,
+        "narHash": "sha256-iAAB9+4qM37syYXyy+/+LjZwGloJHw7ckqfm3NoSy0Q=",
         "owner": "nim-nix-pkgs",
         "repo": "openweathermap",
-        "rev": "bcb452d1ffecb41d9d6222aedb5012130dad3d48",
+        "rev": "adcf751962fcd77c98cd671bfc2b888be4144630",
         "type": "github"
       },
       "original": {
