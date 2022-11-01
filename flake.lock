@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254718,
-        "narHash": "sha256-ajLMj760y/Qjz3P5Nb9xOdWgJftASBB5TMk4uxn04XI=",
+        "lastModified": 1667322554,
+        "narHash": "sha256-8HrLYPNnJKsSYd/VSCi9HNR8VgZ4v5VwNPnTvy/8wyE=",
         "owner": "nim-nix-pkgs",
         "repo": "openweathermap",
-        "rev": "aead4bc3234813333f739703ea325829a3e6d4c8",
+        "rev": "c3abed30a019f69376bf40e0809ca1ea8fe2dce7",
         "type": "github"
       },
       "original": {
